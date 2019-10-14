@@ -1,0 +1,12 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: eureka-client-a
+  devtools:
+    restart:
+      exclude: WEB-INF/**
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8100/eureka

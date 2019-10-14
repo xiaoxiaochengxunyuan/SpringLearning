@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=F\:\\learning\\springboot-eureka-client-a\\.git;F\:\\learning\\springboot-eureka\\.git;F\:\\learning\\springboot-zuul\\.git;
+GitRepositoriesView.GitDirectories.relative=springboot-eureka-client-a\\.git;springboot-eureka\\.git;springboot-zuul\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
